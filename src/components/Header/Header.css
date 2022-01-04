@@ -1,0 +1,17 @@
+.brand-color{
+    color: rgb(211, 27, 27);
+    font-size: 30px;
+}
+
+.link{
+    color: white;
+    text-decoration: none;
+    margin: 5px;
+    padding: 5px;
+    font-size: 20px;
+    
+}
+.link:hover {
+    color: rgb(211, 27, 27);
+    text-decoration: none;
+}
