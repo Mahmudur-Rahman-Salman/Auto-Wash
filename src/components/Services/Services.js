@@ -21,60 +21,42 @@ const Services = () => {
                     </span></h1>
             </div>
             <div className="row" >
-                <div className="col-lg-4 col-md-6 col-12 text-center" data-aos="fade-left"
-                    data-aos-anchor="#example-anchor"
-                    data-aos-offset="2000"
-                    data-aos-duration="2000">
+                <div className="col-lg-4 col-md-6 col-12 text-center">
                     <div><i class="fas fa-car-crash fa-5x"></i></div>
                     <div>
                         <h3>Exterior Washing</h3>
                         <p>Lorem ipsum dolor sit amet elit. <br /> Phase nec preti facils ornare velit <br /> non metus tortor</p>
                     </div>
                 </div>
-                <div className="col-lg-4 col-md-6 col-12 text-center" data-aos="fade-left"
-                    data-aos-anchor="#example-anchor"
-                    data-aos-offset="2000"
-                    data-aos-duration="2000">
+                <div className="col-lg-4 col-md-6 col-12 text-center" >
                     <div><i class="fas fa-car fa-5x"></i></div>
                     <div>
                         <h3>Interior Washing</h3>
                         <p>Lorem ipsum dolor sit amet elit. <br /> Phase nec preti facils ornare velit <br /> non metus tortor</p>
                     </div>
                 </div>
-                <div className="col-lg-4 col-md-6 col-12 text-center" data-aos="fade-left"
-                    data-aos-anchor="#example-anchor"
-                    data-aos-offset="2000"
-                    data-aos-duration="2000">
+                <div className="col-lg-4 col-md-6 col-12 text-center" >
                     <div><i class="fas fa-chair fa-5x"></i></div>
                     <div>
                         <h3>Seats Washing</h3>
                         <p>Lorem ipsum dolor sit amet elit. <br /> Phase nec preti facils ornare velit <br /> non metus tortor</p>
                     </div>
                 </div>
-                <div className="col-lg-4 col-md-6 col-12 text-center" data-aos="fade-left"
-                    data-aos-anchor="#example-anchor"
-                    data-aos-offset="2000"
-                    data-aos-duration="2000">
+                <div className="col-lg-4 col-md-6 col-12 text-center">
                     <div><i class="fas fa-hands-wash fa-5x"></i></div>
                     <div>
                         <h3>Window Wiping</h3>
                         <p>Lorem ipsum dolor sit amet elit. <br /> Phase nec preti facils ornare velit <br /> non metus tortor</p>
                     </div>
                 </div>
-                <div className="col-lg-4 col-md-6 col-12 text-center" data-aos="fade-left"
-                    data-aos-anchor="#example-anchor"
-                    data-aos-offset="2000"
-                    data-aos-duration="2000">
+                <div className="col-lg-4 col-md-6 col-12 text-center">
                     <div><i class="fas fa-hand-sparkles fa-5x"></i></div>
                     <div>
                         <h3>Wet Cleaning</h3>
                         <p>Lorem ipsum dolor sit amet elit. <br /> Phase nec preti facils ornare velit <br /> non metus tortor</p>
                     </div>
                 </div>
-                <div className="col-lg-4 col-md-6 col-12 text-center" data-aos="fade-left"
-                    data-aos-anchor="#example-anchor"
-                    data-aos-offset="2000"
-                    data-aos-duration="2000">
+                <div className="col-lg-4 col-md-6 col-12 text-center">
                     <div><i class="fas fa-gas-pump fa-5x"></i></div>
                     <div>
                         <h3>Oil Changing</h3>
