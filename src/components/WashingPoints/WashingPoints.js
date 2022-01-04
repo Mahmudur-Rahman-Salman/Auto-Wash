@@ -45,7 +45,8 @@ const WashingPoints = () => {
                         </div>
                     </div>
                 </div>
-                <div className="col-12 col-md-6">
+                <div className="col-12 col-md-6" data-aos="fade-up"
+                    data-aos-duration="1000">
                     <div className='container shadow p-5 bg-danger text-dark'>
                         <h4 className='text-light mb-4'>Request for a car wash</h4>
                         <input type="text" class="form-control" placeholder="Full name" aria-label="First name" />

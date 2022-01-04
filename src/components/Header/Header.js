@@ -20,12 +20,12 @@ const Header = () => {
 
                         </Nav>
                         <Nav>
-                            <Button className='btn-circle' variant="outline-light" size="lg">Get Appointment</Button>
+                            <Button className='btn-circle' variant="outline-light" size="lg" data-aos="zoom-in"data-aos-duration="1000">Get Appointment</Button>
                         </Nav>
                     </Navbar.Collapse>
                 </Container>
             </Navbar>
-           
+
         </div>
     );
 };
